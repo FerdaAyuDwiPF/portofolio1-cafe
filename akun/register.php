@@ -61,7 +61,7 @@ if (isset($_POST['daftar'])) {
         <div class='windows'>
         <div class='regis'></div>
             <div class='content'>
-                <div class='welcome' style="margin-top: 15px;">Welcome to Gulo Klopo Kafe!</div>
+                <div class='welcome' style="margin-top: 15px;">Welcome to Gulo Klopo Cafe!</div>
                 <div class="d-flex justify-content-center align-items-center" style="margin-top: 10px;">
                     <div class="col-md-12">
                         <form action="" method="POST">

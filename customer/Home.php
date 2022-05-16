@@ -1,5 +1,5 @@
 <?php
-$headertext = 'Gulo Klopo Kafe';
+$headertext = 'Gulo Klopo Cafe';
 include '../template/head.php';?>
 <header class="masthead" style="background-image: url('../resource/image/logo.png')">
     <div class="overlay"></div>
@@ -7,7 +7,7 @@ include '../template/head.php';?>
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
-            <h1>Terkait Gulo Klopo Kafe</h1>
+            <h1>Terkait Gulo Klopo Cafe</h1>
             <span class="subheading">Great place, Great food, Great to meet you to join our Happiness</span>
           </div>
         </div>
@@ -16,9 +16,11 @@ include '../template/head.php';?>
   </header>
 
   <section>
-    <p style="text-align: center;"><b>Buka pada pukul 13:00WIB-21:00WIB.</b></p>
-    <p style="text-align: center;"><b>Business Hours From Monday to Sunday 10:00AM – 11:00PM.</b></p>
-    <p style="text-align: center;"><b>For More Information : +6287722468599 (Business Requirement)</b></p>
+    <p style="text-align: center;"><b>Offline Cafe buka setiap hari kecuali libur nasional pada pukul 09:00 WIB - 23:00 WIB.</b></p>
+    <p style="text-align: center;"><b>Business Hours dari Senin - Jumat pukul 10:00 WIB – 23:00 WIB.</b></p>
+    <p style="text-align: center;"><b>For More Information :</b></p>
+    <p style="text-align: center;"><b>+6287722468599 (Business Requirement)</b></p>
+    <p style="text-align: center;"><b>+6288211769278 (Hotline Service)</b></p>
     <h1 style="text-align: center;"><br>Servis dan Layanan kami</h1>
     <br>
     <div class="container">
@@ -54,7 +56,7 @@ include '../template/head.php';?>
                         <img class="card-img-top" src="https://thumbs.dreamstime.com/z/lunch-box-vector-school-lunchbox-healthy-food-vegetables-fruits-boxed-kids-container-illustration-set-lunch-box-115017157.jpg" width="350px" height="300px">
                         <h5 class="card-title"><b>Katering Makanan</b></h5>
                         </a>
-                        <p class="card-text" align="justify">Restoran Gulo Klopo Kafe melayani pemesanan secara online berbagai macam makanan dan minuman siap saji untuk pesta maupun kebutuhan dalam suatu instansi dengan skala yang besar dengan jenis makanan dan minuman yang bervariasi setiap harinya. Terdapat berbagai paket menu yang bervariatif namun dengan harga yang tentunya sangat terjangkau.</p>
+                        <p class="card-text" align="justify">Restoran Gulo Klopo Cafe melayani pemesanan secara online berbagai macam makanan dan minuman siap saji untuk pesta maupun kebutuhan dalam suatu instansi dengan skala yang besar dengan jenis makanan dan minuman yang bervariasi setiap harinya. Terdapat berbagai paket menu yang bervariatif namun dengan harga yang tentunya sangat terjangkau.</p>
                     </div>
                 </div>
             </div>
@@ -80,14 +82,19 @@ include '../template/head.php';?>
       <div class="carousel-item">
         <img class="d-block w-100" src="https://www.mldspot.com/storage/generated/June2021/GuloKlopoo.JPG" width="50" height="550" alt="Second slide">
         <h5 class="mb-1"><a href="#"><a href="https://www.depoknews.id/gulo-klopo-hadirkan-tiga-konsep-kuliner-dalam-satu-tempat/"><br>Gulo Klopo, When Eastern Meet Western</a></h5>
-        <p>Beberapa angkringan mengalami metamorfosis dengan membuat terobosan baru yakni disajikan ala kafe modern. Mengikuti trend anak muda yang suka hangout atau nongkrong di tempat asyik dengan konsep menarik. Melihat peluang tersebut, terciptalah angkringan dengan konsep menarik. Salah satunya Gulo Klopo.</p>
+        <p>Beberapa angkringan mengalami metamorfosis dengan membuat terobosan baru yakni disajikan ala cafe modern. Mengikuti trend anak muda yang suka hangout atau nongkrong di tempat asyik dengan konsep menarik. Melihat peluang tersebut, terciptalah angkringan dengan konsep menarik. Salah satunya Gulo Klopo.</p>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="https://media.suara.com/pictures/original/2019/07/21/90754-wedangan-gulo-klopo-tempat-gofar-hilman-ngobrol-bareng-didi-kempot.jpg" width="50" height="550" alt="Third slide">
         <h5 class="mb-1"><a href="#"><a href="https://www.depoknews.id/gulo-klopo-hadirkan-tiga-konsep-kuliner-dalam-satu-tempat/"><br>Gulo Klopo Hadirkan Tiga Konsep Kuliner Dalam Satu Tempat</a></h5>
-        <p>Suasana berbeda hadir di Gulo Klopo yang berada di Jalan Raya Sawangan no36 Kecamatan Pancoranmas. Terdapat tiga konsep dalam satu lokasi, Kafe, Restoran dan Angkringan.
+        <p>Suasana berbeda hadir di Gulo Klopo yang berada di Jalan Raya Sawangan no36 Kecamatan Pancoranmas. Terdapat tiga konsep dalam satu lokasi, Cafe, Restoran dan Angkringan.
           Suasana angkringan dilengkapi dengan arena bermain anak. Lalu dibagian tengah, konsep resto sangat kental terasa. Suasana membuat pengunjung merasa seperti makan dirumah sendiri
-          dengan bangunan bernuansa Jawa. Lalu dibagian belakang pemandangan lengkap dengan panggung pertunjukkan musik. “Kami sengaja membuat konsep seperti ini sehingga pengunjung bisa memilih sesuai yang mereka suka,” Owner Kafe, Resto dan Angkringan Gulo Klopo, Moentarsih.</p>
+          dengan bangunan bernuansa Jawa. Lalu dibagian belakang pemandangan lengkap dengan panggung pertunjukkan musik. “Kami sengaja membuat konsep seperti ini sehingga pengunjung bisa memilih sesuai yang mereka suka,” Owner Cafe, Resto dan Angkringan Gulo Klopo, Moentarsih.</p>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="https://4.bp.blogspot.com/-3H_hiQK6h0g/WOI106Um8gI/AAAAAAAAJm0/S_3p20gKtbMIozSILGDPLSV63UfjZQ25QCLcB/s320/dibyo.jpg" width="50" height="550" alt="Second slide">
+        <h5 class="mb-1"><a href="#"><a href="http://www.depokterkini.com/2017/04/gulo-klopo-padukan-masakan-tradisional.html"><br>Gulo Klopo Padukan Masakan Tradisional dan Barat</a></h5>
+        <p>Anda penggemar makanan angkringan, tidak perlu bingung mencari tempat karena di Gulo Klopo (cafe,  resto dan angkringan) menyediakan berbagai masakan siap saji dari ala jawa hingga barat dengan harga terjangkau. Cafe, resto dan angkringan ini Mempekerjakan 33 pegawai warga sekitar Depok, dengan empat chef, serta memberdayakan kaum ibu hobi memasak masakan tradisional.</p>
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

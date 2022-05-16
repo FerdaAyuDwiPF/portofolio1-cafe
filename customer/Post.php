@@ -129,7 +129,7 @@ include '../template/head.php';?>
           <img class="img-fluid" src="https://pbs.twimg.com/media/EhtrpUhVoAA0LM5.jpg" alt="">
           <img class="img-fluid" src="https://pbs.twimg.com/media/EhtrpoWUcAMucWW.jpg" alt="">
           <img class="img-fluid" src="https://pbs.twimg.com/media/Ehtrp3LUYAA7-G9.jpg" alt="">
-          <p>Sekian tips dan trick-nya temen-temen. Semoga membantu dan bermanfaat ya! Ayo bersama Gulo Klopo Kafe, jangan lelah untuk terus mencoba resep dan teknik baru ya saat memasak. Happy Cooking! </p>
+          <p>Sekian tips dan trick-nya temen-temen. Semoga membantu dan bermanfaat ya! Ayo bersama Gulo Klopo Cafe, jangan lelah untuk terus mencoba resep dan teknik baru ya saat memasak. Happy Cooking! </p>
         </div>
       </div>
     </div>

@@ -8,7 +8,7 @@ include '../template/head.php';?>
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
-            <h1>Detail Pemesanan Layanan Gulo Klopo Kafe</h1>
+            <h1>Detail Pemesanan Layanan Gulo Klopo Cafe</h1>
             <span class="subheading">Halaman tampilan detail pemesanan.</span>
           </div>
         </div>

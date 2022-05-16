@@ -26,7 +26,7 @@ if ($_SESSION['role']!="admin") {
 <body id="page-top">
     <div id="wrapper">
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="Dashboard">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="home.php">
                 <div class="sidebar-brand-icon">
                     <img src="../resource/image/logo.png" width="100" height="50"></i>
                 </div>
@@ -34,7 +34,7 @@ if ($_SESSION['role']!="admin") {
             </a>
             <hr class="sidebar-divider my-0">
             <li class="nav-item <?php echo $dashboard; ?>">
-                <a class="nav-link">
+                <a class="nav-link" href="home.php">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Dashboard</span></a>
             </li>
@@ -171,7 +171,7 @@ if ($_SESSION['role']!="admin") {
                                         <div class="status-indicator bg-success"></div>
                                     </div>
                                     <div class="font-weight-bold">
-                                        <div class="text-truncate">Saya ingin mengadakan kerja sama antara Gulo Klopo Kafe dengan Gojek Indonesia.</div>
+                                        <div class="text-truncate">Saya ingin mengadakan kerja sama antara Gulo Klopo Cafe dengan Gojek Indonesia.</div>
                                         <div class="small text-gray-500">Muhammad Abdul Joko · 58m</div>
                                     </div>
                                 </a>
@@ -193,7 +193,7 @@ if ($_SESSION['role']!="admin") {
                                         <div class="status-indicator bg-warning"></div>
                                     </div>
                                     <div>
-                                        <div class="text-truncate">Saya harap dengan ini Gulo Klopo Kafe</div>
+                                        <div class="text-truncate">Saya harap dengan ini Gulo Klopo Cafe</div>
                                         <div class="small text-gray-500">Rey Simatupang · 2d</div>
                                     </div>
                                 </a>

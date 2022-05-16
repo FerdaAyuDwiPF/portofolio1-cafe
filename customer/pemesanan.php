@@ -26,7 +26,7 @@ if (isset($_POST['edit'])) {
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
-            <h1>Reservasi Gulo Klopo Kafe</h1>
+            <h1>Reservasi Gulo Klopo Cafe</h1>
             <!-- <span class="subheading">Great place, Great food, Great to meet you to join our Happiness</span> -->
           </div>
         </div>

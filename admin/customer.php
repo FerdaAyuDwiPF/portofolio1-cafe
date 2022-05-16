@@ -30,7 +30,7 @@ if (isset($_POST['update_customer'])) {
             <div class="card-header py-3">
                 <div class="row">
                     <div class="col-md-10">
-                        <h6 class="m-0 font-weight-bold text-primary">Data Table Customer Gulo Klopo Kafe</h6>
+                        <h6 class="m-0 font-weight-bold text-primary">Data Table Customer Gulo Klopo Cafe</h6>
                     </div>
                     <div class="col-md-2">
                         <button type="submit" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">Tambah Customer</button>

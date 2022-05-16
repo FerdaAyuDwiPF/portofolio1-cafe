@@ -61,7 +61,7 @@ $koneksi->close();
         <div class='window'>
             <div class='overlay'></div>
             <div class='content'>
-                <div class='welcome' style="margin-top: 30px;">Welcome to Gulo Klopo Kafe!</div>
+                <div class='welcome' style="margin-top: 30px;">Welcome to Gulo Klopo Cafe!</div>
                 <?php if (!empty($_SESSION['register'])) {?>
                     <div class="alert alert-success m-0 p-0 alert-dismissible text-center" id="reg_word" role="alert">Berhasil Registrasi
                         <button type="button" class="btn btn-close p-3" data-bs-dismiss="alert" aria-label="Close">Close</button>

@@ -45,7 +45,7 @@ if (isset($_POST['edit'])) {
         <div class="card-header py-3">
             <div class="row">
                 <div class="col-md-10">
-                    <h6 class="m-0 font-weight-bold text-primary">Data Table Reservasi Gulo Klopo Kafe</h6>
+                    <h6 class="m-0 font-weight-bold text-primary">Data Table Reservasi Gulo Klopo Cafe</h6>
                 </div>
                 <div class="col-md-2">
                     <button type="submit" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">Tambah Reservasi</button>

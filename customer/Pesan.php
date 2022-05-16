@@ -8,7 +8,7 @@ include '../template/head.php';?>
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
-            <h1>Layanan pemesanan Gulo Klopo Kafe</h1>
+            <h1>Layanan pemesanan Gulo Klopo Cafe</h1>
             <span class="subheading">Halaman pemesanan layanan katering makanan. Silahkan memilih!</span>
           </div>
         </div>
@@ -18,7 +18,7 @@ include '../template/head.php';?>
 
      <section>
           <div class="container text-center">
-               <h4><br><br><br>Selamat datang di halaman pemesanan layanan katering Gulo Klopo Kafe. Silahkan memilih!<br><br></h4>
+               <h4><br><br><br>Selamat datang di halaman pemesanan layanan katering Gulo Klopo Cafe. Silahkan memilih!<br><br></h4>
           </div>
      </section>
 

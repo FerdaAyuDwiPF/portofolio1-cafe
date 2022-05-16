@@ -8,7 +8,7 @@ include '../template/head.php';?>
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
             <h1>Challange Memasak Anti Mager</h1>
-            <span class="subheading">Gulo Klopo Kafe mengajak masyarakat Indonesia untuk produktif mulai dari sini! Ayo Bagikan resep terbaikmu!</span>
+            <span class="subheading">Gulo Klopo Cafe mengajak masyarakat Indonesia untuk produktif mulai dari sini! Ayo Bagikan resep terbaikmu!</span>
           </div>
         </div>
       </div>
@@ -34,7 +34,7 @@ include '../template/head.php';?>
           <a href="Post.php">
             <h2 class="post-title">
               MEMBUAT BUMBU MARINASI DAGING ALA GRILL RESTO ALL YOU CAN EAT, SIAPA TAKUT?
-              <img class="img-fluid" src="https://pbs.twimg.com/media/Eei_yM1UMAAYPwR.jpg" alt="">
+              <img class="img-fluid" src="https://img-global.cpcdn.com/recipes/00f2a589975252d2/680x482cq70/korean-bbq-ala-rumahan-foto-resep-utama.jpg" alt="">
             </h2>
           </a>
           <p class="post-meta">Diupload oleh
@@ -46,7 +46,7 @@ include '../template/head.php';?>
           <a href="Post.php">
             <h2 class="post-title">
               CARA MEMBUAT TERANG BULAN TEFLON MUDAH BANGET GAK PAKE GAGAL.
-              <img class="img-fluid" src="https://pbs.twimg.com/media/EYStq_BVcAEOu2N.jpg" alt="">
+              <img class="img-fluid" src="http://asset-a.grid.id/crop/0x0:0x0/x/photo/2019/02/09/2004223603.jpg" alt="">
             </h2>
             <h3 class="post-subtitle">
               Pasti beberapa dari kalian susah banget kan saat coba membuat terang bulan eh malah gagal terus, serasa pengen nyerah aja, eeiiittsss tapi aku ada solusinya loh!

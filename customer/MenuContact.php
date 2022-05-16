@@ -19,7 +19,7 @@ include '../template/head.php';?>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <p align="justify">Jika mempunyai pertanyaan, kritik dan saran, atau resep masakan yang ingin dibagikan pada website Gulo Klopo Kafe, ataupun ingin mengikuti Campaign bersama kami silahkan untuk menghubungi kami. Kami akan merasa sangat senang jika dapat membantu.</p>
+        <p align="justify">Jika mempunyai pertanyaan, kritik dan saran, atau resep masakan yang ingin dibagikan pada website Gulo Klopo Cafe, ataupun ingin mengikuti Campaign bersama kami silahkan untuk menghubungi kami. Kami akan merasa sangat senang jika dapat membantu.</p>
         <form name="sentMessage" id="contactForm" novalidate>
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
