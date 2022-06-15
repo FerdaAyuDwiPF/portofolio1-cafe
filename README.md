@@ -1,12 +1,16 @@
 # portofolio1-cafe
-My Portofolio about Website for Restaurant Rentals and Food Catering Orders on Gulo Klopo Cafe Case Study.
+Portofolio saya terkait Website untuk Penyewaan Restoran dan Pemesanan Catering Makanan pada Studi Kasus Gulo Klopo Cafe.
 
 Nama        : Ferda Ayu Dwi Putri Febrianti
+
 E-mail      : ferdaayu2@gmail.com
+
 Portofolio  : Dynamic Website – Cafe Project
 
 Latar Belakang
+
 ![image](https://user-images.githubusercontent.com/76627077/173744667-63b0aaab-c58b-47a2-acfa-210dcf748872.png)
+
 Gulo Klopo adalah tempat kuliner hits pertama yang memadukan Kafe, Restoran, dan Angkringan sekaligus menjadi satu tempat yang beralamat di Jln. Sawangan Raya no.36, Depok. Saat ini, Gulo Klopo belum memiliki website dinamis (memungkinkan pengguna untuk berinteraksi secara langsung, dalam artian pengguna dapat menambah, memodifikasi, ataupun menghapus konten di dalam web tanpa harus membuka struktur kode dari web tersebut) untuk bisa memberikan pelayanan secara online kepada pelanggannya. Untuk media promosi, cafe ini hanya melalui media sosial yaitu Instagram dan Whatsapp. 
 Saat ini, pandemi COVID-19 masih ada di lingkungan sekitar, maka kesehatan diri harus selalu tetap dijaga. Adanya aturan PPKM (Pemberlakuan Pembatasan Kegiatan Masyarakat) yang bertujuan membatasi mobilitas masyarakat agar virus COVID-19 dapat diminimalisir serta pentingnya tagar #dirumahsaja menjadi nilai penting pada masa sekarang untuk mendorong setiap orang agar sebisa mungkin melakukan aktivitas di rumah saja. Namun, dengan adanya keterbatasan ruang gerak, membuat masyarakat hanya bisa melakukan sebagian besar aktivitas di rumah sehingga kegiatan banyak dilakukan melalui online.
 Oleh karena itu, website ini dibuat untuk memberikan solusi kepada Gulo Klopo agar dapat memberikan pelayanan secara online dalam mewadahi dan memfasilitasi pelanggannya. 
@@ -166,10 +170,15 @@ Pusat Pesan
 ![image](https://user-images.githubusercontent.com/76627077/173749792-948a0f2f-93ec-4ff4-b143-f7d9058f5ffd.png)
 
 Kesimpulan
+
 •	Gulo Klopo adalah tempat kuliner hits pertama yang memadukan Kafe, Restoran, dan Angkringan sekaligus yang beralamat di Jln. Sawangan Raya no.36, Depok.
+
 •	Saat ini, Gulo Klopo belum memiliki website dinamis untuk bisa memberikan pelayanan secara online kepada pelanggannya. Untuk media promosi, cafe ini hanya melalui media sosial yaitu Instagram dan Whatsapp. 
+
 •	Website ini dibuat untuk memberikan solusi kepada Gulo Klopo agar dapat memberikan pelayanan secara online dalam mewadahi dan memfasilitasi pelanggannya. 
+
 •	Teknologi yang digunakan pada project yaitu framework open-source Bootstrap, CSS, Javascript, aplikasi code editor Visual Studio Code, XAMPP versi 3.3.0, version control git, dan GitHub, pemrograman PHP dengan metode CRUD (Create, Read, Update, Delete), serta phpMyAdmin sebagai database SQL.
 
 Saran
-Dari laporan portofolio project yang telah dibuat, masih terdapat banyak kekurangan dalam menjadikan project ini menjadi suatu website dinamis yang nantinya bisa disebar luaskan dan dipakai untuk masyarakat. Masih terdapat fitur-fitur yang harus ditambah dan dikembangkan lagi kedepannya. Semoga dapat lebih baik lagi dalam hal penulisan kode program yang lebih kompleks sehingga menjadikannya dari segi alur penggunaan lebih mudah, efektif, efisien dan lebih maju sejalan dengan dunia yang semakin canggih karena pesatnya teknologi informasi dewasa ini.
+
+• Dari laporan portofolio project yang telah dibuat, masih terdapat banyak kekurangan dalam menjadikan project ini menjadi suatu website dinamis yang nantinya bisa disebar luaskan dan dipakai untuk masyarakat. Masih terdapat fitur-fitur yang harus ditambah dan dikembangkan lagi kedepannya. Semoga dapat lebih baik lagi dalam hal penulisan kode program yang lebih kompleks sehingga menjadikannya dari segi alur penggunaan lebih mudah, efektif, efisien dan lebih maju sejalan dengan dunia yang semakin canggih karena pesatnya teknologi informasi dewasa ini.
